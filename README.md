@@ -11,7 +11,9 @@ All user are only required to enter or write your name in Prompt Section and Get
 - JAVA-SCRIPT
 - NODE JS
 - Socket io
-
+## If You want to run This App in yours Local System
+- You Have to Npm i in Nodeserver folder
+- npm i Socket.io  server dependency
 ## Demo
 
 ### Chatting UI
