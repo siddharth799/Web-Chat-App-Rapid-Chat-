@@ -33,3 +33,6 @@ All user are only required to enter or write your name in Prompt Section and Get
 ### User Left the Chat
 ![Screenshot (1245)](https://github.com/siddharth799/Web-Chat-App-Rapid-Chat-/assets/115414262/5c55e0fc-d835-497f-a745-1013f79fc23a)
 
+### Link of UI Only(only html css work)
+ https://siddharth799.github.io/Web-Chat-App-Rapid-Chat-/
+
